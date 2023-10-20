@@ -1,0 +1,10 @@
+name: OneBlock-Minigane
+version: '${project.version}'
+main: oneblock.Main
+api-version: '1.20'
+author: SFC_Log
+folia-supported: true
+depend:
+  - PlaceholderAPI
+commands:
+  oneblock:
